@@ -73,6 +73,9 @@ The locale dropdown now appears in your navbar:
 
 ![Locale Dropdown](./img/localeDropdown.png)
 
+<!-- 이미지 크기 변환 -->
+<!-- <img src={require('./img/localeDropdown.png').default} alt="Locale Dropdown" style={{width: '50%'}} /> -->
+
 ## Build your localized site
 
 Build your site for a specific locale:
